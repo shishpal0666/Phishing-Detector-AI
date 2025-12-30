@@ -1,15 +1,13 @@
-<<<<<<< HEAD
 ---
 title: Phishing Email AI
-emoji: 🌍
-colorFrom: green
-colorTo: purple
+emoji: 🛡️
+colorFrom: blue
+colorTo: green
 sdk: docker
+app_file: app.py
 pinned: false
-short_description: Phishing Email Detection AI
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
-=======
-# Phishing-Detector-AI
->>>>>>> 60abf1c (first commit)
+# Phishing Email AI
+
+A Flask-based deep learning API to detect phishing emails.
