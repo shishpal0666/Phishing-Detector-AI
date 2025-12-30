@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Phishing Detector AI",
+  "version": "1.0",
+  "description": "Detects phishing emails using a local RoBERTa model.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "48": "icon.png"
+  }
+}

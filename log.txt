@@ -1,0 +1,23 @@
+commit cbaba22b29e78faf544aa2d817b1ba220a1daeb5
+Author: shishpal <shishpalpolampally@gmail.com>
+Date:   Mon Dec 1 15:15:10 2025 +0530
+
+    Phishing Detector Backend and Extension
+
+A	Extension/icon.png
+A	Extension/manifest.json
+A	Extension/popup.html
+A	Extension/popup.js
+A	app.py
+A	model/config.json
+A	model/model.safetensors
+A	model/training_args.bin
+A	requirements.txt
+
+commit 60abf1c22df85e866601d675b875124af928e896
+Author: shishpal <shishpalpolampally@gmail.com>
+Date:   Mon Dec 1 15:13:07 2025 +0530
+
+    first commit
+
+A	README.md
